@@ -23,6 +23,11 @@ using namespace std;
 // forward declarations
 double strToDouble(string str, char ch);
 
+
+
+
+//LOL ADDED THIS COMMENBT HAHAHAHAHAHAAHjhgjhgjhghjg
+
 // define a structure to hold bid information
 struct Bid {
     string bidId; // unique identifier

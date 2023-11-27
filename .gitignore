@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CS-260-Data-Structures-and-Algorithms/v16/Browse.VC.db
+/.vs/CS-260-Data-Structures-and-Algorithms/v16/Browse.VC.db-shm
+/.vs/CS-260-Data-Structures-and-Algorithms/v16/Browse.VC.db-wal
+/.vs/CS-260-Data-Structures-and-Algorithms/v16/Browse.VC.opendb
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
